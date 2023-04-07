@@ -1,0 +1,67 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.button {
+	background-color: yellow;
+	font-size: larger;
+}
+
+#random {
+	font-size: larger;
+}
+
+#list{
+	display: flexbox;
+	background-color: lightblue;
+	
+}
+#interests {
+	background-color: rgb(4, 248, 4);
+}
+#goals {
+	background-color: aqua;
+}
+#pic{
+	max-width: 20vw;
+}
+
+#sites {
+	display: inline;
+	
+}
